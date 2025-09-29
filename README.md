@@ -1,1 +1,1 @@
-# Emergency-Room-Triage-System-Priority-Queue-
+# Emergency-Room-Triage-System-Priority-Queue
